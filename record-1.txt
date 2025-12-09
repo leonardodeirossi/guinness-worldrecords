@@ -1,0 +1,11 @@
+----------------------------------
+| Guinness World Records         |
+| Anno: 2025                     |
+----------------------------------
+
+ID_RECORD:
+DATA_REGISTRAZIONE:
+ORA_REGISTRAZIONE:
+
+TITOLO: ""
+DESCRIZIONE: ""
