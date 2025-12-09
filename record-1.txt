@@ -3,9 +3,9 @@
 | Anno: 2025                     |
 ----------------------------------
 
-ID_RECORD:
-DATA_REGISTRAZIONE:
-ORA_REGISTRAZIONE:
+ID_RECORD: 1
+DATA_REGISTRAZIONE: 2025-02-22
+ORA_REGISTRAZIONE: 00:00
 
-TITOLO: ""
-DESCRIZIONE: ""
+TITOLO: "Marcia, Italia - Eleonora Giorgi"
+DESCRIZIONE: "Eleonora Giorgi il 22 febbraio 2025, ad Antalya (Turchia) ha realizzato il nuovo record italiano nella 35 km di marcia, fermando il cronometro a 2h41:54."
